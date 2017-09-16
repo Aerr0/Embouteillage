@@ -1,0 +1,13 @@
+Votre but est de déplacer la voiture rouge jusqu'à la sortie.
+ 
+Pour réaliser cet objectif il faudra :
+ 
+- Déplacer les autres véhicules de manière à laisser passer 
+  la voiture rouge
+
+- Attention les véhicules ne peuvent se déplacer uniquement 
+  horizontalement ou verticalement
+ 
+Commandes :
+ 
+Déplacer un véhicule : Cliquer et Glisser

@@ -1,0 +1,8 @@
+red;horizontal;2:1;
+truck;horizontal;3:3;
+truck;vertical;0:0;
+car;horizontal;0:1;
+car;vertical;3:2;
+truck;vertical;0:3;
+car;vertical;4:5;
+truck;horizontal;5:2;
